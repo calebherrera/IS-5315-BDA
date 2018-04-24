@@ -1,123 +1,138 @@
 <?xml version="1.0" encoding="UTF-8" ?>
   <employees>
     <data>
-      <name>James Bond</name>
-      <designation>Accountant</designation>
-      <salary>$170,750</salary>
-      <joining_date>2011/07/25</joining_date>
-      <office>Tokyo</office>
-      <extension>8422</extension>
+      <name>Forrest Gump</name>
+      <Profession>Professional Table Tennis Player</Profession>
+      <salary>$1,000,000</salary>
+      <joining_date>1994/05/31</joining_date>
+      <office>Greenbow, Alabama</office>
+      <favorite_movie>Rush Hour 2<favorite_movie>
+      <favorite_shoe>Nike Cortez<favorite_shoe>
     </data>
     <data>
-      <name>Brielle Williamson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$372,000</salary>
-      <joining_date>2012/12/02</joining_date>
-      <office>New York</office>
-      <extension>4804</extension>
+      <name>Cristiano Ronaldo</name>
+      <Profession>Professional Football Player</Profession>
+      <salary>$37,200,000</salary>
+      <joining_date>2009/07/01</joining_date>
+      <office>Madrid, Spain</office>
+      <favorite_movie>Zoolander<favorite_movie>
+      <favorite_shoe>Nike Mercurial<favorite_shoe>
     </data>
     <data>
-      <name>Ashton Cox</name>
-      <designation>Junior Technical Author</designation>
-      <salary>$86,000</salary>
+      <name>LeBron James</name>
+      <Profession>Professional Basketball Player</Profession>
+      <salary>$27,000,000</salary>
+      <joining_date>2003/10/12</joining_date>
+      <office>Cleveland, Ohio</office>
+      <favorite_movie>Space Jam<favorite_movie>
+      <favorite_shoe>Nike Soldier 11<favorite_shoe>
+    </data>
+    <data>
+      <name>Calvin Broadus Jr</name>
+      <Profession>Artist</Profession>
+      <salary>$2,000,000</salary>
+      <joining_date>1993/05/21</joining_date>
+      <office>Long Beach, California</office>
+      <favorite_movie>Baby Boy<favorite_movie>
+      <favorite_shoe>Converse Chuck Taylor, All Blue<favorite_shoe>
+    </data>
+    <data>
+      <name>Russell Wilson</name>
+      <Profession>Professional Football (American) Player</Profession>
+      <salary>$8,000,000</salary>
+      <joining_date>2012/08/12</joining_date>
+      <office>Seattle, Washington</office>
+      <favorite_movie>Sleepless in Seattle<favorite_movie>
+      <favorite_shoe>Nike Haurache<favorite_shoe>
+    </data>
+    <data>
+      <name>Clint Dempsey</name>
+      <Profession>Professional Football Player</Profession>
+      <salary>$2,000,000</salary>
+      <joining_date>2008/04/20</joining_date>
+      <office>Seattle, Washington</office>
+      <favorite_movie>Kicking and Screaming<favorite_movie>
+      <favorite_shoe>Nike Hypervenom<favorite_shoe>
+    </data>
+    <data>
+      <name>Kendrick Lamar</name>
+      <Profession>Artist</Profession>
+      <salary>$10,000,000</salary>
+      <joining_date>2012/08/01</joining_date>
+      <office>Compton, California</office>
+      <favorite_movie>Black Panther<favorite_movie>
+      <favorite_shoe>Niek Cortez<favorite_shoe>
+    </data>
+    <data>
+      <name>Clark Kent</name>
+      <Profession>Reporter, Daily Planet</Profession>
+      <salary>$50,000</salary>
+      <joining_date>1940/03/15</joining_date>
+      <office>Smallville, Kansas</office>
+      <favorite_movie>Man of Steel<favorite_movie>
+      <favorite_shoe>Boot, all red<favorite_shoe>
+    </data>
+    <data>
+      <name>Tony Stark</name>
+      <Profession>Genius, Billionaire, Playboy, Philanthropist</Profession>
+      <salary>$30,000,000</salary>
+      <joining_date>1968/04/20</joining_date>
+      <office>New York, New Yorl</office>
+      <favorite_movie>The Avengers<favorite_movie>
+      <favorite_shoe>Nike Air MAG<favorite_shoe>
+    </data>
+    <data>
+      <name>Barry Allen</name>
+      <Profession>Forensic Scientist</Profession>
+      <salary>$85,000</salary>
+      <joining_date>1968/05/05</joining_date>
+      <office>Central City, USA</office>
+      <favorite_movie>Justice League<favorite_movie>
+      <favorite_shoe>PF Flyers<favorite_shoe>
+    </data>
+    <data>
+      <name>Bilbo Baggins</name>
+      <Profession>Adventurer</Profession>
+      <salary>$50,000 (EUR)</salary>
+      <joining_date>1973/08/07</joining_date>
+      <office>Hobbiton, New Zealand</office>
+      <favorite_movie>Lord of the Rings<favorite_movie>
+      <favorite_shoe>Barefoot<favorite_shoe>
+    </data>
+    <data>
+      <name>Peter Parker</name>
+      <Profession>Photographer, Daily Bugle</Profession>
+      <salary>$45,000</salary>
+      <joining_date>1963/06/03</joining_date>
+      <office>New York, New York</office>
+      <favorite_movie>The Amazing Spider Man<favorite_movie>
+      <favorite_shoe>Nike Free<favorite_shoe>
+    </data>
+    <data>
+      <name>Ron Swanson</name>
+      <Profession>Parks and Recreation, Program Director</Profession>
+      <salary>$65,000</salary>
+      <joining_date>2008/01/09</joining_date>
+      <office>Pawnee, Indiana</office>
+      <favorite_movie>Bridge on the River Kwai<favorite_movie>
+      <favorite_shoe>Leather Boot<favorite_shoe>
+    </data>
+    <data>
+      <name>Michael Corleone</name>
+      <Profession>Mafia Boss</Profession>
+      <salary>Unknown</salary>
+      <joining_date>1983/05/19</joining_date>
+      <office>New York, New York</office>
+      <favorite_movie>The Godfather<favorite_movie>
+      <favorite_shoe>Ferragamo Wingtip Oxford<favorite_shoe>
+    </data>
+    <data>
+      <name>Barack Obama</name>
+      <Profession>Politician</Profession>
+      <salary>$570,000</salary>
       <joining_date>2009/01/12</joining_date>
-      <office>San Francisco</office>
-      <extension>1562</extension>
-    </data>
-    <data>
-      <name>Airi Satou</name>
-      <designation>Accountant</designation>
-      <salary>$162,700</salary>
-      <joining_date>2008/11/28</joining_date>
-      <office>Tokyo</office>
-      <extension>5407</extension>
-    </data>
-    <data>
-      <name>Caesar Vance</name>
-      <designation>Pre-Sales Support</designation>
-      <salary>$106,450</salary>
-      <joining_date>2011/12/12</joining_date>
-      <office>New York</office>
-      <extension>8330</extension>
-    </data>
-    <data>
-      <name>Shad Decker</name>
-      <designation>Regional Director</designation>
-      <salary>$183,000</salary>
-      <joining_date>2008/11/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>6373</extension>
-    </data>
-    <data>
-      <name>Cedric Kelly</name>
-      <designation>Senior Javascript Developer</designation>
-      <salary>$433,060</salary>
-      <joining_date>2012/03/29</joining_date>
-      <office>Edinburgh</office>
-      <extension>6224</extension>
-    </data>
-    <data>
-      <name>Haley Kennedy</name>
-      <designation>Senior Marketing Designer</designation>
-      <salary>$313,500</salary>
-      <joining_date>2012/12/18</joining_date>
-      <office>London</office>
-      <extension>3597</extension>
-    </data>
-    <data>
-      <name>Colleen Hurst</name>
-      <designation>Javascript Developer</designation>
-      <salary>$205,500</salary>
-      <joining_date>2009/09/15</joining_date>
-      <office>San Francisco</office>
-      <extension>2360</extension>
-    </data>
-    <data>
-      <name>Dai Rios</name>
-      <designation>Personnel Lead</designation>
-      <salary>$217,500</salary>
-      <joining_date>2012/09/26</joining_date>
-      <office>Edinburgh</office>
-      <extension>2290</extension>
-    </data>
-    <data>
-      <name>Herrod Chandler</name>
-      <designation>Sales Assistant</designation>
-      <salary>$137,500</salary>
-      <joining_date>2012/08/06</joining_date>
-      <office>San Francisco</office>
-      <extension>9608</extension>
-    </data>
-    <data>
-      <name>Rhona Davidson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$327,900</salary>
-      <joining_date>2010/10/14</joining_date>
-      <office>Tokyo</office>
-      <extension>6200</extension>
-    </data>
-    <data>
-      <name>Sonya Frost</name>
-      <designation>Software Engineer</designation>
-      <salary>$103,600</salary>
-      <joining_date>2008/12/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>1667</extension>
-    </data>
-    <data>
-      <name>Jena Gaines</name>
-      <designation>Office Manager</designation>
-      <salary>$90,560</salary>
-      <joining_date>2008/12/19</joining_date>
-      <office>London</office>
-      <extension>3814</extension>
-    </data>
-    <data>
-      <name>Quinn Flynn</name>
-      <designation>Support Lead</designation>
-      <salary>$342,000</salary>
-      <joining_date>2013/03/03</joining_date>
-      <office>Edinburgh</office>
-      <extension>9497</extension>
+      <office>Oval, Washington DC</office>
+      <favorite_movie>First Kid<favorite_movie>
+      <favorite_shoe>Nike Air Force 1<favorite_shoe>
     </data>
   </employees>
