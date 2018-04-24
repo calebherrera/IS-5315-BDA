@@ -2,137 +2,137 @@
   <employees>
     <data>
       <name>Forrest Gump</name>
-      <Profession>Professional Table Tennis Player</Profession>
+      <profession>professional Table Tennis Player</profession>
       <salary>$1,000,000</salary>
       <joining_date>1994/05/31</joining_date>
       <office>Greenbow, Alabama</office>
-      <favorite_movie>Rush Hour 2<favorite_movie>
-      <favorite_shoe>Nike Cortez<favorite_shoe>
+      <favorite_movie>Rush Hour 2</favorite_movie>
+      <favorite_shoe>Nike Cortez</favorite_shoe>
     </data>
     <data>
       <name>Cristiano Ronaldo</name>
-      <Profession>Professional Football Player</Profession>
+      <profession>professional Football Player</profession>
       <salary>$37,200,000</salary>
       <joining_date>2009/07/01</joining_date>
       <office>Madrid, Spain</office>
-      <favorite_movie>Zoolander<favorite_movie>
-      <favorite_shoe>Nike Mercurial<favorite_shoe>
+      <favorite_movie>Zoolander</favorite_movie>
+      <favorite_shoe>Nike Mercurial</favorite_shoe>
     </data>
     <data>
       <name>LeBron James</name>
-      <Profession>Professional Basketball Player</Profession>
+      <profession>professional Basketball Player</profession>
       <salary>$27,000,000</salary>
       <joining_date>2003/10/12</joining_date>
       <office>Cleveland, Ohio</office>
-      <favorite_movie>Space Jam<favorite_movie>
-      <favorite_shoe>Nike Soldier 11<favorite_shoe>
+      <favorite_movie>Space Jam</favorite_movie>
+      <favorite_shoe>Nike Soldier 11</favorite_shoe>
     </data>
     <data>
       <name>Calvin Broadus Jr</name>
-      <Profession>Artist</Profession>
+      <profession>Artist</profession>
       <salary>$2,000,000</salary>
       <joining_date>1993/05/21</joining_date>
       <office>Long Beach, California</office>
-      <favorite_movie>Baby Boy<favorite_movie>
-      <favorite_shoe>Converse Chuck Taylor, All Blue<favorite_shoe>
+      <favorite_movie>Baby Boy</favorite_movie>
+      <favorite_shoe>Converse Chuck Taylor, All Blue</favorite_shoe>
     </data>
     <data>
       <name>Russell Wilson</name>
-      <Profession>Professional Football (American) Player</Profession>
+      <profession>professional Football (American) Player</profession>
       <salary>$8,000,000</salary>
       <joining_date>2012/08/12</joining_date>
       <office>Seattle, Washington</office>
-      <favorite_movie>Sleepless in Seattle<favorite_movie>
-      <favorite_shoe>Nike Haurache<favorite_shoe>
+      <favorite_movie>Sleepless in Seattle</favorite_movie>
+      <favorite_shoe>Nike Haurache</favorite_shoe>
     </data>
     <data>
       <name>Clint Dempsey</name>
-      <Profession>Professional Football Player</Profession>
+      <profession>professional Football Player</profession>
       <salary>$2,000,000</salary>
       <joining_date>2008/04/20</joining_date>
       <office>Seattle, Washington</office>
-      <favorite_movie>Kicking and Screaming<favorite_movie>
-      <favorite_shoe>Nike Hypervenom<favorite_shoe>
+      <favorite_movie>Kicking and Screaming</favorite_movie>
+      <favorite_shoe>Nike Hypervenom</favorite_shoe>
     </data>
     <data>
       <name>Kendrick Lamar</name>
-      <Profession>Artist</Profession>
+      <profession>Artist</profession>
       <salary>$10,000,000</salary>
       <joining_date>2012/08/01</joining_date>
       <office>Compton, California</office>
-      <favorite_movie>Black Panther<favorite_movie>
-      <favorite_shoe>Niek Cortez<favorite_shoe>
+      <favorite_movie>Black Panther</favorite_movie>
+      <favorite_shoe>Niek Cortez</favorite_shoe>
     </data>
     <data>
       <name>Clark Kent</name>
-      <Profession>Reporter, Daily Planet</Profession>
+      <profession>Reporter, Daily Planet</profession>
       <salary>$50,000</salary>
       <joining_date>1940/03/15</joining_date>
       <office>Smallville, Kansas</office>
-      <favorite_movie>Man of Steel<favorite_movie>
-      <favorite_shoe>Boot, all red<favorite_shoe>
+      <favorite_movie>Man of Steel</favorite_movie>
+      <favorite_shoe>Boot, all red</favorite_shoe>
     </data>
     <data>
       <name>Tony Stark</name>
-      <Profession>Genius, Billionaire, Playboy, Philanthropist</Profession>
+      <profession>Genius, Billionaire, Playboy, Philanthropist</profession>
       <salary>$30,000,000</salary>
       <joining_date>1968/04/20</joining_date>
       <office>New York, New Yorl</office>
-      <favorite_movie>The Avengers<favorite_movie>
-      <favorite_shoe>Nike Air MAG<favorite_shoe>
+      <favorite_movie>The Avengers</favorite_movie>
+      <favorite_shoe>Nike Air MAG</favorite_shoe>
     </data>
     <data>
       <name>Barry Allen</name>
-      <Profession>Forensic Scientist</Profession>
+      <profession>Forensic Scientist</profession>
       <salary>$85,000</salary>
       <joining_date>1968/05/05</joining_date>
       <office>Central City, USA</office>
-      <favorite_movie>Justice League<favorite_movie>
-      <favorite_shoe>PF Flyers<favorite_shoe>
+      <favorite_movie>Justice League</favorite_movie>
+      <favorite_shoe>PF Flyers</favorite_shoe>
     </data>
     <data>
       <name>Bilbo Baggins</name>
-      <Profession>Adventurer</Profession>
+      <profession>Adventurer</profession>
       <salary>$50,000 (EUR)</salary>
       <joining_date>1973/08/07</joining_date>
       <office>Hobbiton, New Zealand</office>
-      <favorite_movie>Lord of the Rings<favorite_movie>
-      <favorite_shoe>Barefoot<favorite_shoe>
+      <favorite_movie>Lord of the Rings</favorite_movie>
+      <favorite_shoe>Barefoot</favorite_shoe>
     </data>
     <data>
       <name>Peter Parker</name>
-      <Profession>Photographer, Daily Bugle</Profession>
+      <profession>Photographer, Daily Bugle</profession>
       <salary>$45,000</salary>
       <joining_date>1963/06/03</joining_date>
       <office>New York, New York</office>
-      <favorite_movie>The Amazing Spider Man<favorite_movie>
-      <favorite_shoe>Nike Free<favorite_shoe>
+      <favorite_movie>The Amazing Spider Man</favorite_movie>
+      <favorite_shoe>Nike Free</favorite_shoe>
     </data>
     <data>
       <name>Ron Swanson</name>
-      <Profession>Parks and Recreation, Program Director</Profession>
+      <profession>Parks and Recreation, Program Director</profession>
       <salary>$65,000</salary>
       <joining_date>2008/01/09</joining_date>
       <office>Pawnee, Indiana</office>
-      <favorite_movie>Bridge on the River Kwai<favorite_movie>
-      <favorite_shoe>Leather Boot<favorite_shoe>
+      <favorite_movie>Bridge on the River Kwai</favorite_movie>
+      <favorite_shoe>Leather Boot</favorite_shoe>
     </data>
     <data>
       <name>Michael Corleone</name>
-      <Profession>Mafia Boss</Profession>
+      <profession>Mafia Boss</profession>
       <salary>Unknown</salary>
       <joining_date>1983/05/19</joining_date>
       <office>New York, New York</office>
-      <favorite_movie>The Godfather<favorite_movie>
-      <favorite_shoe>Ferragamo Wingtip Oxford<favorite_shoe>
+      <favorite_movie>The Godfather</favorite_movie>
+      <favorite_shoe>Ferragamo Wingtip Oxford</favorite_shoe>
     </data>
     <data>
       <name>Barack Obama</name>
-      <Profession>Politician</Profession>
+      <profession>Politician</profession>
       <salary>$570,000</salary>
       <joining_date>2009/01/12</joining_date>
       <office>Oval, Washington DC</office>
-      <favorite_movie>First Kid<favorite_movie>
-      <favorite_shoe>Nike Air Force 1<favorite_shoe>
+      <favorite_movie>First Kid</favorite_movie>
+      <favorite_shoe>Nike Air Force 1</favorite_shoe>
     </data>
   </employees>
