@@ -2,7 +2,7 @@
   <employees>
     <data>
       <name>Forrest Gump</name>
-      <profession>professional Table Tennis Player</profession>
+      <profession>Professional Table Tennis Player</profession>
       <salary>$1,000,000</salary>
       <joining_date>1994/05/31</joining_date>
       <office>Greenbow, Alabama</office>
@@ -11,7 +11,7 @@
     </data>
     <data>
       <name>Cristiano Ronaldo</name>
-      <profession>professional Football Player</profession>
+      <profession>Professional Football Player</profession>
       <salary>$37,200,000</salary>
       <joining_date>2009/07/01</joining_date>
       <office>Madrid, Spain</office>
@@ -20,7 +20,7 @@
     </data>
     <data>
       <name>LeBron James</name>
-      <profession>professional Basketball Player</profession>
+      <profession>Professional Basketball Player</profession>
       <salary>$27,000,000</salary>
       <joining_date>2003/10/12</joining_date>
       <office>Cleveland, Ohio</office>
@@ -38,7 +38,7 @@
     </data>
     <data>
       <name>Russell Wilson</name>
-      <profession>professional Football (American) Player</profession>
+      <profession>Professional Football (American) Player</profession>
       <salary>$8,000,000</salary>
       <joining_date>2012/08/12</joining_date>
       <office>Seattle, Washington</office>
@@ -47,7 +47,7 @@
     </data>
     <data>
       <name>Clint Dempsey</name>
-      <profession>professional Football Player</profession>
+      <profession>Professional Football Player</profession>
       <salary>$2,000,000</salary>
       <joining_date>2008/04/20</joining_date>
       <office>Seattle, Washington</office>
